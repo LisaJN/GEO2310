@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Weather systems presentation}
+\author{Lisa Julianne Nystad}
+\date{April 2023}
+
+\begin{document}
+
+\maketitle
+
+\section*{What is a polar front?}
+\section*{What is a jet stream/streak?}
+\section*{Idealized cross-section of a polar front}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=12cm]{2_6.jpg}
+    \caption{Idealized cross-section of a polar front.}
+    \label{figure 1}
+\end{figure}
+\subsection*{How it is related to the jet stream?}
+\subsection*{what are differences between the polar jet
+stream and the subtropical jet stream}
+\section*{Idealized jet streak}
+Sketch an idealized jet streak circulation. 
+\subsection*{Where do convergence and divergence occur?}
+\begin{itemize}
+    \item at which levels
+    \item how is that related to regions where cyclones arise preferably
+\end{itemize} 
+\section*{What role do polar fronts (or precisely polar front folds) play for exchange processes between troposphere and stratosphere? }
+\section*{What is the influence on ozone and water vapor concentration?}
+\section*{What is a dry intrusion?}
+\section*{How are they related to strongly enhancing cyclones?}
+You can relate this to potential vorticity. 
+\end{document}
